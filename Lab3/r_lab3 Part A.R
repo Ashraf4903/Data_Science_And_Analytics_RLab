@@ -54,3 +54,5 @@ ggplot(mtcars, aes(x = cyl_f, y = mpg, fill = cyl_f)) +
 
 #5 Summmary of dataser
 summary(mtcars)
+
+
