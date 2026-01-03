@@ -12,7 +12,7 @@ It transitions from foundational statistical analysis to advanced techniques lik
 ---
 
 ##  Featured Project 1: Causal Inference on Thyroid Treatment
-**File:** `Thyroid_Causal_Project/thyroid_analysis.R`
+**File:** `Thyroid_Causal_Project/code.R`
 
 ### Context
 In real-world medical data, treating patients isn't random—sicker patients often get more medication. This creates "Selection Bias," making it hard to see if a drug actually works. 
@@ -29,12 +29,12 @@ In this project, I used **Propensity Score Matching (PSM)** to create a balanced
 
 | **Before Matching (Biased)** | **After Matching (Balanced)** |
 |:---:|:---:|
-| ![Before Plot](project/before_matching_plot.png) | ![After Plot](project/after_matching_plot.png) |
+| ![Before Plot](Thyroid_Casual_Project/before_matching_plot.png) | ![After Plot](Thyroid_Casual_Project/after_matching_plot.png) |
 
 ---
 
 ##  Featured Project 2: Real Estate Price Simulation
-**File:** `Mini_Project_Housing_Prediction/housing_price_predictor.R`
+**File:** `Mini_Project/Real_Estate_Price_Predictorr.R`
 
 To demonstrate mastery of **Linear Regression logic**, I built a simulation engine that generates synthetic housing market data. This project proves that I can understand the underlying mathematical relationships between variables (Size, Age, Price) without relying on pre-cleaned CSVs.
 
