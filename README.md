@@ -52,5 +52,7 @@ This repository also contains foundational coursework modules covering the stand
 * **Data Preprocessing:** Cleaning pipelines using `dplyr`.
 
 ---
-###  Contact
+### 👤 Author
 **Ashraf Pathan**
+*B.Tech Computer Science (AI & Data Science)*
+[Connect on LinkedIn](https://www.linkedin.com/in/ashraf-pathan/)
