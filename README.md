@@ -41,7 +41,7 @@ To demonstrate mastery of **Linear Regression logic**, I built a simulation engi
 * **Technique:** Synthetic Data Generation & Multivariate Regression.
 * **Outcome:** The model successfully identified the engineered correlation between square footage and price, achieving high predictive accuracy on unseen data.
 
-![Housing Graph](Data_Science_And_Analytics_R/Mini_Project
+![Housing Graph](Mini_Project
 /housing_plot.png)
 
 ---
