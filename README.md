@@ -29,7 +29,7 @@ In this project, I used **Propensity Score Matching (PSM)** to create a balanced
 
 | **Before Matching (Biased)** | **After Matching (Balanced)** |
 |:---:|:---:|
-| ![Before Plot](Thyroid_Causal_Project/before_matching_plot.png) | ![After Plot](Thyroid_Causal_Project/after_matching_plot.png) |
+| ![Before Plot](project/before_matching_plot.png) | ![After Plot](project/after_matching_plot.png) |
 
 ---
 
